@@ -1,4 +1,4 @@
-# nexphant Observability
+# Nexphant Observability
 
 Logging, metrics, and leak detection for nexphant.
 

@@ -1,7 +1,7 @@
 <?php
-namespace nexphant\Observability;
+namespace Nexphant\Observability;
 
-use nexphant\Observability\Leak\LeakSnapshot;
+use Nexphant\Observability\Leak\LeakSnapshot;
 
 class LeakReporter
 {

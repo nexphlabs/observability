@@ -1,7 +1,7 @@
 <?php
-namespace nexphant\Observability;
+namespace Nexphant\Observability;
 
-use nexphant\Observability\Metrics\RuntimeMetrics;
+use Nexphant\Observability\Metrics\RuntimeMetrics;
 
 class Metrics
 {

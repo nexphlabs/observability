@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace nexphant\Observability;
+namespace Nexphant\Observability;
 
-use nexphant\Core\Resource\ResourceRegistry;
-use nexphant\Core\Ownership\OwnerRegistry;
+use Nexphant\Core\Resource\ResourceRegistry;
+use Nexphant\Core\Ownership\OwnerRegistry;
 
 /**
  * Leak snapshot with grouping and analysis
