@@ -1,17 +1,17 @@
 {
-    "name": "nexph/observability",
-    "description": "Nexph Observability - Logging, Metrics, Leak Detection",
+    "name": "nexphant/observability",
+    "description": "nexphant Observability - Logging, Metrics, Leak Detection",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nexph\\Observability\\": "src/"
+            "nexphant\\Observability\\": "src/"
         }
     },
     "require": {
         "php": "^8.1",
-        "nexph/core": "^0.0",
-        "nexph/support": "^0.0"
+        "nexphant/core": "^0.0",
+        "nexphant/support": "^0.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true

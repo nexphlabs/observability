@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nexph\Observability\Logger;
+namespace nexphant\Observability\Logger;
 
-use Nexph\Core\Context\ContextStore;
+use nexphant\Core\Context\ContextStore;
 
 /**
  * Processor that adds runtime context to log records

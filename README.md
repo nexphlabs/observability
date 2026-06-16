@@ -1,11 +1,11 @@
-# Nexph Observability
+# nexphant Observability
 
-Logging, metrics, and leak detection for Nexph.
+Logging, metrics, and leak detection for nexphant.
 
 ## Installation
 
 ```bash
-composer require nexph/observability
+composer require nexphant/observability
 ```
 
 ## License

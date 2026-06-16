@@ -1,7 +1,7 @@
 <?php
-namespace Nexph\Observability;
+namespace nexphant\Observability;
 
-use Nexph\Observability\Doctor\RuntimeDoctor;
+use nexphant\Observability\Doctor\RuntimeDoctor;
 
 class Doctor
 {
